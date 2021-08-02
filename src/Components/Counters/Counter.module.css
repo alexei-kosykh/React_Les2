@@ -1,0 +1,12 @@
+.count {
+    text-align: center;
+    font-size: 35px;
+    color: rgb(48, 47, 47);
+    font-weight: bold;
+}
+
+.counter {
+    max-width: 200px;
+    margin-left: 5px;
+    background-color: rgb(187, 187, 187);
+}
